@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://chinmayak1197.github.io/)
+[<img src="https://github.com/Chinmayak1197/Chinmayak1197/blob/4f71dbfa78d4ef95c194c3e88acc93f96e451b62/intro.gif" alt="👋 Hi there! I'm Chinmaya Khamesra | https://chinmayak1197.github.io" title="👋 Hi there! I'm Chinmaya Khamesra | https://chinmayak1197.github.io"/>](https://chinmayak1197.github.io/)
 
 👋🏽 Hi, my name is Chinmaya Khamesra.
 🎓 Graduate student in Robotics Engineering at the Worcester Polytechnic Institute. 
